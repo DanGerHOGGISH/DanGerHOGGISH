@@ -1,4 +1,4 @@
-### Hi there 👋 I am Jasurbek, iOS developer at SafeNetPay
+### Hi there 👋 I am Jasurbek, iOS Developer at SafeNetPay
 
 - Check out my [resume](https://gist.github.com/DanGerHOGGISH/08347ee80719ec159e28c462fdb611b4).
 - I’m currently working at [SafeNetPay](https://www.safenetpay.com)
